@@ -1,0 +1,4 @@
+[submodule "Android-kotlin-Code/core/src/foss/golang/clash"]
+	path = Android-kotlin-Code/core/src/foss/golang/clash
+	url = https://github.com/MetaCubeX/mihomo
+	branch = Meta
